@@ -1,4 +1,4 @@
-### Welcome to my world 👋
+### “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler 👋
 
 <!--
 **sebamena/sebamena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
